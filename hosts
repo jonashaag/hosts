@@ -1,0 +1,32 @@
+#
+# /etc/hosts: static lookup table for host names
+#
+
+#<ip-address>	<hostname.domain.org>	<hostname>
+127.0.0.1		localhost.localdomain	localhost jarchy
+
+# ===========================================================
+# Google Inc
+127.0.0.1  clients1.google.com
+127.0.0.1  clients1.google.de
+127.0.0.1  domains.googlesyndication.com
+127.0.0.1  pagead.googlesyndication.com
+127.0.0.1  pagead2.googlesyndication.com
+127.0.0.1  adservices.google.com
+127.0.0.1  video-stats.video.google.com
+127.0.0.1  ssl.google-analytics.com
+127.0.0.1  www.google-analytics.com
+127.0.0.1  google-analytics.com
+127.0.0.1  4.afs.googleadservices.com
+127.0.0.1  feedads.googleadservices.com
+127.0.0.1  imageads.googleadservices.com
+127.0.0.1  partner.googleadservices.com
+127.0.0.1  www.googleadservices.com
+127.0.0.1  apps5.oingo.com
+127.0.0.1  www.appliedsemantics.com
+127.0.0.1  service.urchin.com 
+# etracker.com
+127.0.0.1  etracker.com
+127.0.0.1  www.etracker.com
+# ===========================================================
+
