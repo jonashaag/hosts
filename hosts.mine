@@ -1,11 +1,5 @@
-#
-# /etc/hosts: static lookup table for host names
-#
-
-#<ip-address>	<hostname.domain.org>	<hostname>
 127.0.0.1		localhost               jarchy
 
-# ===========================================================
 # Google Inc
 127.0.0.0  clients1.google.com
 127.0.0.0  clients1.google.de
@@ -27,12 +21,13 @@
 127.0.0.0  service.urchin.com 
 127.0.0.1  localhost.com
 127.0.0.1  www.localhost.com
+
 # etracker.com
 127.0.0.0  etracker.com
 127.0.0.0  www.etracker.com
+
 # facebook.com
 127.0.0.0 facebook.com
 127.0.0.0 www.facebook.com
 127.0.0.0 de.facebook.com
-# ===========================================================
 
