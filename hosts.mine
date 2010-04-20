@@ -31,3 +31,5 @@
 127.0.0.0 www.facebook.com
 127.0.0.0 de.facebook.com
 
+# wibiya.com
+127.0.0.0 cdn.wibiya.com
