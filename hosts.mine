@@ -19,6 +19,9 @@
 127.0.0.0  apps5.oingo.com
 127.0.0.0  www.appliedsemantics.com
 127.0.0.0  service.urchin.com 
+127.0.0.0  suggestqueries.google.com
+
+# localhost.com
 127.0.0.1  localhost.com
 127.0.0.1  www.localhost.com
 
