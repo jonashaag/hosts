@@ -1,5 +1,5 @@
 #!/bin/sh
-DIFFER=colordiff
+DIFFER=vimdiff
 
 cp hosts.winhelp hosts.winhelp.old
 
@@ -14,3 +14,5 @@ cat hosts.winhelp | grep -v 'localhost' | sed 's/127.0.0.1/127.0.0.0/g' >> hosts
 echo "Done, here comes the diff"
 $DIFFER hosts.winhelp.old hosts.winhelp
 rm hosts.winhelp.old
+
+sudo cp hosts /etc/hosts
