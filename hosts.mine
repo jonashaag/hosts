@@ -42,9 +42,18 @@
 127.0.0.0 cdn.wibiya.com
 
 # flattr.{com|net}
+# flattr Javascript suckz.
 127.0.0.0 flattr.com
 127.0.0.0 api.flattr.com
 127.0.0.0 www.flattr.com
 127.0.0.0 flattr.net
 127.0.0.0 api.flattr.net
 127.0.0.0 www.flattr.net
+
+# I hate Twitter
+127.0.0.0 twitter.com
+127.0.0.0 www.twitter.com
+
+# tabblo.com
+127.0.0.0 tabblo.com
+127.0.0.1 www.tabblo.com
