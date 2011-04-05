@@ -34,8 +34,10 @@
 127.0.0.0 api.facebook.com
 127.0.0.0 www.facebook.com
 127.0.0.0 de.facebook.com
+127.0.0.0 de-de.facebook.com
 127.0.0.0 www.connect.facebook.com
 127.0.0.0 connect.facebook.com
+127.0.0.0 connect.facebook.net
 127.0.0.0 static.ak.connect.facebook.com
 
 # wibiya.com
