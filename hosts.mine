@@ -20,6 +20,10 @@
 127.0.0.0  www.appliedsemantics.com
 127.0.0.0  service.urchin.com 
 127.0.0.0  suggestqueries.google.com
+127.0.0.0  ad-emea.doubleclick.net
+127.0.0.0  ad.doubleclick.net
+127.0.0.0  partner.googleadservices.com
+127.0.0.0. googleadservices.com 
 
 # localhost.com
 127.0.0.1  localhost.com
@@ -59,3 +63,21 @@
 # tabblo.com
 127.0.0.0 tabblo.com
 127.0.0.1 www.tabblo.com
+
+# Ads
+127.0.0.0 ligatus.com
+127.0.0.0 ad.ad-srv.net
+127.0.0.0 cdn.adsfac.eu
+127.0.0.0 adserver.freenet.de
+127.0.0.0 fxm.nuggad.net
+127.0.0.0 streaming.ad-balancer.at
+127.0.0.0 cdn.quisma.com
+127.0.0.0 kapital.inqnet.atads.bluelithium.com
+127.0.0.0 adtigerat.adspirit.net
+127.0.0.0 l.addthiscdn.com
+127.0.0.0 b.scorecardresearch.com
+127.0.0.0 yceml.net
+127.0.0.0 cas.criteo.com
+127.0.0.0 ih.adscale.de
+127.0.0.0 i.kissmetrics.com
+127.0.0.0 ads.intergenia.de
