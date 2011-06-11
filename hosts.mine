@@ -23,7 +23,7 @@
 127.0.0.0  ad-emea.doubleclick.net
 127.0.0.0  ad.doubleclick.net
 127.0.0.0  partner.googleadservices.com
-127.0.0.0. googleadservices.com 
+127.0.0.0  googleadservices.com
 
 # localhost.com
 127.0.0.1  localhost.com
