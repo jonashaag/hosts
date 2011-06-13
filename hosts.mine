@@ -1,4 +1,16 @@
-127.0.0.1		localhost               acer
+127.0.0.1  localhost
+127.0.0.1  localhost.localdomain
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+
+
+# Special for Acer-Users
+127.0.0.1 acer
 
 # Google Inc
 127.0.0.0  clients1.google.com
@@ -6,7 +18,6 @@
 127.0.0.0  domains.googlesyndication.com
 127.0.0.0  pagead.googlesyndication.com
 127.0.0.0  pagead2.googlesyndication.com
-127.0.0.0  adservices.google.com
 127.0.0.0  video-stats.video.google.com
 127.0.0.0  ssl.google-analytics.com
 127.0.0.0  www.google-analytics.com
