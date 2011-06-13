@@ -27,14 +27,14 @@ ff02::2 ip6-allrouters
 127.0.0.0  imageads.googleadservices.com
 127.0.0.0  partner.googleadservices.com
 127.0.0.0  www.googleadservices.com
+127.0.0.0  partner.googleadservices.com
+127.0.0.0  googleadservices.com
+127.0.0.0  ad-emea.doubleclick.net
+127.0.0.0  ad.doubleclick.net
 127.0.0.0  apps5.oingo.com
 127.0.0.0  www.appliedsemantics.com
 127.0.0.0  service.urchin.com 
 127.0.0.0  suggestqueries.google.com
-127.0.0.0  ad-emea.doubleclick.net
-127.0.0.0  ad.doubleclick.net
-127.0.0.0  partner.googleadservices.com
-127.0.0.0  googleadservices.com
 
 # localhost.com
 127.0.0.1  localhost.com
