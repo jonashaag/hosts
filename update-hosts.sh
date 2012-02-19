@@ -17,7 +17,7 @@ if [ -e hosts.private ]; then
 fi
 cat hosts.mine >> hosts
 
-cat hosts.winhelp | grep -v 'localhost' | sed 's/127.0.0.1/127.0.0.0/g' >> hosts
+cat hosts.winhelp | tr -d '\r' | grep -v 'localhost' | sed 's/127.0.0.1/127.0.0.0/g' >> hosts
 
 echo Done, here comes the diff
 
