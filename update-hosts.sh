@@ -7,7 +7,7 @@ diffit() {
 cp hosts.winhelp hosts.winhelp.old
 
 echo Fetching current winhelp hosts...
-wget -O hosts.winhelp http://www.mvps.org/winhelp2002/hosts.txt
+wget -O hosts.winhelp http://winhelp2002.mvps.org/hosts.txt
 
 echo Updating local hosts file...
 cp hosts.mine hosts
