@@ -12,6 +12,7 @@ wget -O hosts.winhelp http://winhelp2002.mvps.org/hosts.txt
 
 echo Updating local hosts file...
 echo 127.0.0.1 localhost $(hostname) >> hosts
+echo >> hosts
 if [ -e hosts.private ]; then
   cat hosts.private >> hosts
 fi
